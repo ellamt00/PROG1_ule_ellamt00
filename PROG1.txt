@@ -1,0 +1,10 @@
+1.hoja - https://dle.rae.es/hoja
+2.dedo - https://dle.rae.es/dedo?m=form
+3.calva - https://dle.rae.es/calva?m=form
+4.perro - https://dle.rae.es/perro?m=form
+5.saliva - https://dle.rae.es/saliva?m=form
+6.humano - https://dle.rae.es/humano?m=form
+7.leon - https://dle.rae.es/le%C3%B3n?m=form
+8.sirena - https://dle.rae.es/sirena?m=form
+9.profesora - https://dle.rae.es/profesor?m=form
+10.cazurro - https://dle.rae.es/cazurro?m=form
